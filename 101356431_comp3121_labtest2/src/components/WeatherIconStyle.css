@@ -1,0 +1,42 @@
+.weather-icon {
+  width: 100px;
+  height: 100px;
+  display: inline-block;
+  background-size: cover;
+}
+
+.clear {
+  background-image: url('https://openweathermap.org/img/wn/01d@2x.png')
+}
+
+.fewclouds {
+  background-image: url('https://openweathermap.org/img/wn/02d@2x.png')
+}
+
+.scatteredclouds {
+  background-image: url('https://openweathermap.org/img/wn/03d@2x.png')
+}
+
+.brokenclouds {
+  background-image: url('https://openweathermap.org/img/wn/04d@2x.png')
+}
+
+.rain {
+  background-image: url('https://openweathermap.org/img/wn/10d@2x.png')
+}
+
+.thunderstorm {
+  background-image: url('https://openweathermap.org/img/wn/11d@2x.png')
+}
+
+.snow {
+  background-image: url('https://openweathermap.org/img/wn/13d@2x.png')
+}
+
+.mist {
+  background-image: url('https://openweathermap.org/img/wn/50d@2x.png')
+}
+
+.overcastclouds {
+  background-image: url('https://openweathermap.org/img/wn/04d@2x.png')
+}

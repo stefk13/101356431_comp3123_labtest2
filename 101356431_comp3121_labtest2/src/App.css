@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url('./components/backgroundimage.jpg'); 
+  background-size: cover;
+  background-position: center;
+}
+
+.container {
+  background-color: rgba(211, 211, 211, 0.5); /* Light grey with 50% transparency */
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); /* Optional: Add a shadow effect */
+}
